@@ -51,3 +51,5 @@ Patient → Receptionist → Doctor → Inventory System → Billing System
 ### **Asynchronous Messages:**  
 - Notifications sent from Billing System to Patient  
 - Alerts sent from Inventory to Admin if stock is low
+
+![image](https://github.com/user-attachments/assets/a68f9b8c-66af-4ef0-b4b1-fb253c9fcd68)

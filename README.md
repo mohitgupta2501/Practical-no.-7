@@ -54,4 +54,3 @@ Patient → Receptionist → Doctor → Inventory System → Billing System
 
 ![image](https://github.com/user-attachments/assets/a68f9b8c-66af-4ef0-b4b1-fb253c9fcd68)
 
-![17446904086328450501393065156755](https://github.com/user-attachments/assets/30438427-cb27-4a24-94cf-f8e03cdbd73d)
